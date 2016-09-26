@@ -83,4 +83,4 @@ Macdown is a program (for Macs only, unfortunately) that is designed for writing
 
 Download [here](http://macdown.uranusjr.com/).
 
-If you run into any installation/configuration challenges, please let others know on the [slack channel](https://info201-f16.slack.com) so that others can anticipate the same issues.
+If you run into any installation/configuration challenges, please let others know on the [slack channel](https://info201-a16.slack.com) so that others can anticipate the same issues.
